@@ -54,7 +54,7 @@ small.error {
 .card {
     box-shadow: 0 0.25rem 0.5rem 0 rgb(119, 119, 119);
     transition: 0.4s;
-    width: 50%;
+    width: 40%;
     border-radius: 0.3rem;
     background-color: white;
     height: max-content;
